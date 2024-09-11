@@ -14,7 +14,7 @@ curl http://127.0.0.1:3000/api
 Synced olduktan sonra
 
 ```python
-cd packages/cli
+cd cat-token-box/packages/cli
 ```
 
 ```python
