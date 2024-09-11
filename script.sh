@@ -75,7 +75,3 @@ docker run -d \
     -e RPC_HOST="host.docker.internal" \
     -p 3000:3000 \
     tracker:latest
-
-# Synced Kontrol
-echo -e "${ORANGE}Synced kontrol yapılıyor...${NC}"
-curl http://127.0.0.1:3000/api
