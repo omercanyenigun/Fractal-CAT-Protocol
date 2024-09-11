@@ -46,7 +46,7 @@ yarn cli wallet balances
 Scprit
 
 ```python
-sceen -S cat
+screen -S cat
 ```
 
 ```python
