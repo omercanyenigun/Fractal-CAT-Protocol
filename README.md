@@ -1,7 +1,9 @@
-
+Script
 ```python
 wget -qO- https://raw.githubusercontent.com/omercanyenigun/Fractal-CAT-Protocol/main/script.sh | bash
 ```
+
+Tamamlanmasını bekleyin
 
 Synced Kontrol 
 
