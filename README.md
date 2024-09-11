@@ -12,8 +12,7 @@ curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 
 ```python
 sudo apt install docker.io -y
-sudo systemctl status docker
-docker --version
+
 ```
 
 ```python
