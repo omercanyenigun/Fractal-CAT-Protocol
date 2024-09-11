@@ -13,6 +13,9 @@ curl http://127.0.0.1:3000/api
 
 Synced olduktan sonra
 
+```python
+cd packages/cli
+```
 
 ```python
 yarn cli wallet create
@@ -33,7 +36,6 @@ yarn cli mint -i 45ee725c2c5993b3e4d308842d87e973bf1951f5f7a804b21e4dd964ecd12d6
 ```
 
 
-
 Balance Kontrol 
 
 ```python
@@ -48,12 +50,7 @@ sceen -S cat
 ```
 
 ```python
-cd
-cd cat-token-box/packages/cli
-```
-
-```python
-nano script.sh
+nano mint.sh
 ```
 
 ```python
@@ -70,11 +67,11 @@ done
 ```
 
 ```python
-chmod +x script.sh
+chmod +x mint.sh
 ```
 
 ```python
-./script.sh
+./mint.sh
 ```
 
 
